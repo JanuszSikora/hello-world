@@ -1,3 +1,3 @@
 # hello-world
 Just a test repository
-2nd try
+It's  to understand, how github works.
